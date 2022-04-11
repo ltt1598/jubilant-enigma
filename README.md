@@ -29,4 +29,4 @@
 ## 插入视频
 Github的新feature允许用户插入视频了，快把你的视频传上来吧！
 
-https://user-images.githubusercontent.com/2309174/162766598-6d65e702-84a6-44e5-a745-e7f7c21d5302.MP4
+https://user-images.githubusercontent.com/2309174/162767279-2ced8a2f-38bd-42d6-9bb8-a827144464ff.mp4
